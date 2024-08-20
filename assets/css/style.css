@@ -1,0 +1,22 @@
+.navbar input::placeholder{
+    color: #8b8787;
+}
+
+.first-slider .carousel-indicators li{
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.first-slider img{
+    height: 32rem;
+    object-fit: cover;
+    object-position: center;
+    filter: brightness(100%);
+}
+
+.first-slider .carousel-caption {
+    text-align: left;
+    bottom: 20%;
+}
